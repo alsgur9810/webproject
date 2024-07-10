@@ -1,0 +1,232 @@
+.PlaceDetail {
+	width: 1740px;
+	padding-left: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.PlaceDetail .PlaceDetailTitle .PlaceCategory {
+	font-size: 25px;
+	color: #5BC6EA;
+	margin-bottom: -3px;
+	margin-left: 30px;
+}
+
+.PlaceDetail .PlaceDetailTitle .PlaceName {
+	display: inline-block;
+	font-size: 45px;
+	font-weight: 600;
+	margin-left: 30px;
+}
+
+.PlaceDetail .PlaceDetailTitle .Score {
+	display: inline-block;
+	margin-left: 20px;
+	font-size: 45px;
+	font-weight: 600;
+	color: #5BC6EA;
+}
+
+.PlaceDetail .PlaceDetailTitle .likebtns {
+	margin-left: 30px;
+	margin-bottom: 15px;
+	background-color: white;
+	color: black;
+	border: 2px solid black;
+}
+
+.PlaceDetail .fa-heart {
+	color: red;
+}
+
+.PlaceDetail .PlaceDetailTitle .likebtns:hover {
+	background-color: black;
+	color: white;
+	border: 2px solid white;
+	border-radius: 5px;
+}
+
+.PlaceDetail .active {
+	color: red;
+}
+
+.PlaceDetail .PlaceDetailBar li {
+	width: 720px;
+	height: 100px;
+	text-align: center;
+	display: inline-block;
+	font-size: 30px;
+	color: #7D7D7D;
+	padding-top: 25px;
+	border-bottom: 3px solid #7D7D7D;
+	cursor: pointer;
+}
+
+.PlaceDetail .PlaceDetailBar li.active {
+	color: #5BC6EA;
+	font-weight: 600;
+	background-color: transparent;
+	border-bottom: 3px solid #5BC6EA;
+}
+
+.PlaceDetail .PlaceDetailInfo .PlaceDetailInfoContents {
+	margin-left: 30px;
+	font-size: 20px;
+}
+
+.PlaceDetail .PlaceDetailInfo p {
+	font-size: 18px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+.PlaceDetail .PlaceDetailInfo .kakaomap {
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+.PlaceDetail .PlaceDetailInfo .svg-inline--fa {
+	margin-right: 20px;
+}
+
+.PlaceDetail .PlaceDetailReview {
+	display: inline-block;
+}
+
+.PlaceDetail .PlaceDetailReview .ProgressBars {
+	display: inline-block;
+	width: 550px;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailProgressbar {
+	float: left;
+	width: 550px;
+	margin-top: 10px;
+}
+
+.PlaceDetail .PlaceDetailReview b {
+	float: left;
+	font-size: 22px;
+	padding-bottom: -50px;
+}
+
+.PlaceDetail .PlaceDetailReview .progress {
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 300px;
+	height: 25px;
+	float: left;
+}
+
+.PlaceDetail .PlaceDetailReview .progress-bar {
+	background-color: #9661FF;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview {
+	float: left;
+	width: 900px;
+	height: 200px;
+	padding-left: 50px;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_write{
+	width: 900px;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_write .range-slider__wrap{
+	float: left;
+	width: 400px;
+	margin-right: 50px;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_write .skipinfo{
+	float: left;
+	font-weight: 600;
+	font-size: 25px;
+	margin-right: 20px;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_write .cm_score{
+	float: left;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_write .cm_value{
+	float: left;
+	color: #17a2b8;
+	font-weight: 700;
+	margin-right: 2px;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_input textarea{
+	float: left;
+	width: 600px;
+	padding: 10px;
+	resize: none;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_input .cm_submit{
+	float: left;
+	margin-top: 70px;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_input .cm_submit .submitbtns{
+	background-color: white;
+	color: black;
+	border: 2px solid black;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.PlaceDetail .PlaceDetailReview .PlaceDetailWriteReview .cm_input .cm_submit .submitbtns:hover {
+	background-color: black;
+	color: white;
+	border: 2px solid white;
+	border-radius: 5px;
+}
+
+.PlaceDetail .PlaceDetailReviewList {
+	margin-left: 35px;
+	margin-right: 40px;
+}
+
+.PlaceDetail .PlaceDetailReviewList .PlaceDetailReviews {
+	padding-top: 30px;
+	padding-bottom: 60px;
+	border-bottom: 1px solid black;
+}
+
+.PlaceDetail .PlaceDetailReviewList .PlaceDetailReviews .fa-circle-user {
+	float: left;
+	padding-top: 10px;
+	color: #36454F;
+}
+
+.PlaceDetail .PlaceDetailReviewList .PlaceDetailReviews .PlaceReviewName {
+	font-weight: 600;
+	font-size: 25px;
+}
+
+.PlaceDetail .PlaceDetailReviewList .PlaceDetailReviews .PlaceReviewSub {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.PlaceDetail .PlaceDetailReviewList .PlaceDetailReviews .comment_button {
+	float: right;
+	margin-top: 10px;
+	margin-right: 20px;
+	font-size: 13px;
+}
+
+.PlaceDetail .PlaceDetailReviewList .PlaceDetailReviews .PlaceReviewImages {
+	float: left;
+}
+
+.PlaceDetail .PlaceDetailReviewList .PlaceDetailReviews img {
+	width: 100px;
+	height: 100px;
+	margin-top: 10px;
+	margin-right: 10px;
+}

@@ -1,0 +1,26 @@
+/* .info {
+    margin-left: 30vw;
+} */
+
+.container_1 {
+    white-space:pre-wrap;
+    /* width: 20%; */
+    /* background-color: orange; */
+    text-align: center;
+    margin: 5vw 35vw auto ;
+    position: relative;
+    text-align: center;
+}
+
+.pwc_1 {
+	display: flex;
+}
+
+.ppp {
+	font-size: 50px;
+	font-weight: 600;
+}
+
+.eye_1 {
+    margin-left: 10px;
+}

@@ -1,0 +1,57 @@
+.container {
+	padding-left: 0 !important;
+}
+
+.PlaceSidebar {
+	float: left;
+	left: 0;
+	height: 100vh;
+	min-height: 950px;
+	width: 250px;
+	transition: all 0.5s;
+	border-right: 1px solid black;
+	position: fixed;
+}
+
+.PlaceSidebar h2 {
+	text-align: center;
+	font-weight: 600;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+
+.PlaceSidebarMenu {
+	text-align: center;
+	display: flex;
+	padding: 10px;
+	font-size: 18px;
+	margin-bottom: 30px;
+	transition: all 0.5s;
+	text-decoration: none;
+	color: black;
+}
+
+.PlaceSidebarMenu:hover {
+	background: #F9D367;
+	color: white;
+	transition: all 0.5s;
+	text-decoration: none;
+}
+
+.PlaceSidebarMenu span.badge {
+	padding-top: 8px;
+}
+
+.active {
+	background: #F9D367;
+	color: white;
+	font-weight: 600;
+}
+
+.PlaceSidebarMenu .svg-inline--fa {
+	margin-right: 10px;
+	font-size: 25px;
+	margin-top: 5px;
+}

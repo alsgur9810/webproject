@@ -1,0 +1,24 @@
+div.myinfo2 {
+	/* white-space: pre-wrap; */
+	text-align: center;
+	margin: 5vw 35vw auto;
+	position: relative;
+  }
+  
+  div.mb-3.input-group_1 {
+	margin-top: 50px;
+	display: flex;
+  }
+  
+  .input-group {
+	display: flex;
+  }
+  
+  .btn_1 {
+	height: 38px;
+  }
+  
+  #inputGroup-sizing-default {
+	width: 125px;
+  }
+  
