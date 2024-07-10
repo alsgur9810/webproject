@@ -196,8 +196,6 @@
 
 ---
 
-2. <h3>공지사항</h3>
-   ![image](https://github.com/kjink98/dogetherBoot/assets/113023365/59f67dc6-989a-4178-ae87-e35a12a943c4)
 
 **공지사항**
 
