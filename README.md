@@ -220,8 +220,6 @@
 
 ---
 
-4. <h3>후기</h3>
-   ![image](https://github.com/kjink98/dogetherBoot/assets/113023365/fdee6a54-1cec-4e85-93cd-aa127d30a934)
 
 **후기**
 
